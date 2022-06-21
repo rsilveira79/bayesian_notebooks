@@ -10,7 +10,7 @@ jupyter==1.0.0
 jupyterlab==0.31.8
 matplotlib==2.2.3
 nltk==3.2.5
-numpy==1.15.4
+numpy==1.22.0
 pandas==0.23.3
 plotly==2.5.1
 pymc3==3.4.1
